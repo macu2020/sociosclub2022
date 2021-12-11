@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://pokqsllw.lucusvirtual.es/img/login/logos.jpeg" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -7,60 +7,69 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+# Bienvenido a Sistema de  Ingreso Version 01 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Aserca del proyecto
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Es un sistema de ingreso de socios e invitados para un club de manera de poder tener la informacion de registro de ingresos y automatizando por medio de un codigo QR:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### Comenzando 🚀
+* Nombre del Projecto:* Sistema de ingreso
+* Autor: * Jorge macuri ayra
+* Creado: * 10/12/2021
+* Versión: * 1.01
+***
+¡Gracias por su Visita! Si tiene alguna pregunta sobre éste projecto, no dude en mandarme un correo electrónico a **macuri516@gmail.com** o enviarme un mensaje a **992001909**
 
-## Learning Laravel
+### Pre-requisitos 📋
+_Elaborado con LAravel,mysql, php8, javascript,jquery,css,html_
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### Instalación 🔧
+_Para pode publicarlo es importante tener en cuenta_
+1. Nombre de Base de datos : socios
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## Índice 
+1. Administrador rol_id = 1  
+2. Inspector rol_id      = 2 
+2. Recepcionista rol_id  = 3  
+3. El Administrador solo puede craer socios y usuarios del sistema.
+4. El Recepcionista solo pue consultar y ingresar el socios e invitados al club.
+5. El Inspector solo pue consultar  socios e invitadosal club.
 
-### Premium Partners
+***
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[CMS Max](https://www.cmsmax.com/)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-- **[Romega Software](https://romegasoftware.com)**
+## Compatibilidad con Navegadores  
+Este tema trabaja bien (-) o magníficamente (X) en los siguientes navegadores:
 
-## Contributing
+**IE 6-8** -  
+**IE 9+** X  
+**Chrome** X  
+**Firefox** X  
+**Safari** X  
+**Opera** X  
+***
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## Construido con 🛠️
+_Elaborado con php, javascript,css,html_
+* [php](https://www.php.net/manual/es/intro-whatis.php) - Manejador de dependencias
+* [github](https://github.com/macu2020) - Git hub jorge macuri macu2020
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## Contribuyendo 🖇️
+Por favor lee el [CONTRIBUTING.md](https://github.com/macu2020) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests
 
-## License
+## Wiki 📖
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/macu2020)
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Autor ✒️
+* **Jorge macuri ayra** - *Trabajo Inicial* - [macu2020](https://github.com/macu2020)
+* **Jorge macuri ayra** - *Documentación* - [macu2020](#fulanito-de-tal)
+
+## Licencia 📄
+Este proyecto está bajo la Licencia (WebM@c-2021)
+
