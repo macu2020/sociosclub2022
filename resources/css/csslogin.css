@@ -1,0 +1,95 @@
+
+*{	margin: 0;	padding: 0;	list-style: none;text-decoration: none;	box-sizing: border-box;}
+
+body{overflow-x: hidden; margin:0 auto;font-size:16px ;background-color: #fff;
+	font-family: 'Raleway', sans-serif; }
+h4,h2,h1,ul,h1, h3, h4, h5, h6{	padding: 0;margin:0;list-style: none;}
+ul {list-style: none; padding: 0; margin: 0;}
+a { color: inherit;text-decoration: none;cursor: pointer;outline: none;}
+/**elilimaellogo de 00webhostinger**/
+img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] { display: none; }
+
+/********* LOGIN **********/
+   
+	.img-background{
+	  background-size: cover;background-repeat: no-repeat;
+	  background-position: center center;}
+	.nav-homelogin{  font-family: 'Poiret One', cursive; color: #fff;font-size: 1.2rem;
+	text-decoration: none  !important;  }
+	nav a{  text-decoration: none  !important;}
+	.home-text{
+	  font-family: 'Chicle', cursive;color: #fff;font-size: 2.8rem;
+	  font-weight: 100;position: relative;text-shadow: 2px 2px 2px #460b09  }
+
+	.btnhome{ color: #fff;font-size: 1.1rem;font-family: 'Poiret One', cursive;
+	font-weight: bold  }
+
+	.cont div  button,.cont button,.submit{
+	  background-image: radial-gradient(circle at 49.31% 47.41%, #5b5530 0, #1c1d20 50%, #00000d 100%);}
+	.subtit{color: #fff;font-size: 1rem; text-shadow: 2px 2px 2px #460b09 }
+	.form-check-label{color: #fff;font-size: 1.2rem; text-shadow: 2px 2px 2px #460b09 }
+	.auth-form{background: transparent; border-radius: 20px; padding:20px 10px 20px 10px;}
+	.auth-form:before{
+	  content: ""; height: 100%; width: 100%;top: 0;left: 0;opacity: 0.7; 
+	  background-color: #24120d;position: absolute;border-radius: 20px;  }
+	.field-icon {
+	  position: absolute;  cursor: pointer;padding-bottom: 40px;padding-right: 40px;
+	  right: 15px;-webkit-transform: translateY(-50%);
+	  -ms-transform: translateY(-50%); transform: translateY(-50%);
+	  color:#000; }
+	.field-icon:hover{   color: #007bff;}
+	
+
+	.profile-nav a{ text-decoration: none;font-family: 'Poiret One',cursive;
+	font-weight: bold;text-shadow: 1px 1px 1px #D8BDBE;}
+	.profile-nav .active a{   color: #ABE396!important;}
+	.btn{  color: #fff; border: 1px solid #fff;border-radius: 10px}
+	.btn:hover{  background-color: #24120d;
+	  color: #007bff; border: 1px solid #fff;border-radius: 10px}
+	.modal-content{     border-radius: 20px;}
+
+	.modal_login:before{ 
+	content: ""; height: 100%; width: 100%;top: 0;left: 0;opacity: 0.7; 
+	  background-color: #000;position: absolute;border-radius: 20px; }
+	.form_prof_subt,.form_change_subtit{
+	    font-family: 'Poiret One',cursive;font-weight: bold;}
+	.card__prof_header{
+	font-family: 'Chicle', cursive;text-align: center;font-size: 2rem }
+
+	.img-login img{border-radius: 20px; width: 80%;}
+/****** REGISTRO **********/
+	.regis-form{background: transparent; border-radius: 20px; padding:20px 50px 50px  50px;}
+	.regis-form:before{
+	  content: ""; height: 100%; width: 100%;top: 0;left: 0;opacity: 0.7; 
+	  background-color: #24120d;position: absolute;border-radius: 20px;  }
+ .passregi .field-icon {
+  position: absolute;  cursor: pointer;padding-bottom: 40px;padding-right: 40px;
+  right: 15px;-webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%); transform: translateY(-50%);
+  color:#000; }
+/*** VALIDACION ALERTAS ***/
+  input.success,textarea.success,select.success{  border:1px solid #008000 ; background-color: #BDE5AD;color: #000}
+  label.invalid{  color: #DA0A13 !important; font-family: 'Caveat', cursive;  
+  font-size: .9rem;font-weight: bold  ;position: absolute;top: 0  ;left: 10;background-color: #000}
+  #selecperfil-error{color: #DA0A13 !important; font-family: 'Caveat', cursive;  
+  font-size: .9rem;font-weight: bold  ;position: absolute;top: 0  ;right: 0;background-color: #000}
+  input.invalid,textarea.invalid,select.invalid{
+    box-shadow: inset 0 1px 4px rgba(255, 0, 0, 0.6), 0 0 4px rgba(255, 0, 0, 0.6);background-color: #F3A7B8}
+    /** alerta -***/
+  .ajs-header,.ajs-button{  font-family: 'Kaushan Script', cursive !important;text-shadow: 2px 2px 2px #460b09 !important;}
+  .ajs-error{ background-color: #FE1A00!important;font-family: 'Kaushan Script', cursive !important;color: #fff !important}
+  .ulerror{  color: #FE1A00;font-family: 'Caveat', cursive;  } 
+  .ajs-header{ color: #fff!important;background-color: #FE1A00 !important;}
+  .ajs-button{ color: #fff!important;background-color: #FE1A00!important}
+  .ajs-success{color: #fff !important}
+  .swal2-confirm{background-color: #0a91ab !important}
+  .erorestyl{position: absolute;margin-top: -20px ;font-size: .9rem}
+
+  #form-contact label.invalid{
+  	color: #DA0A13 !important; font-family: 'Caveat', cursive;  
+  	font-size: 1.1rem;font-weight: bold  ;position: absolute;top: 0  ;left: 0;background-color: #000
+  }	
+/****  MEDIA QUERY ********/
+	@media(min-width: 768px ){ 
+	  #regitration_form{margin-top: -90px}
+    }
